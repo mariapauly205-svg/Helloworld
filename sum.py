@@ -4,3 +4,5 @@ c=a-b
 print(c)
 x="hello"
 print(x)
+y="maria"
+print(y)
